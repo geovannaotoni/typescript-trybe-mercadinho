@@ -1,10 +1,8 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Lojinha de Conveniência - Registro de Vendas
+Este repositório contém uma prova de conceito de uma aplicação que registra itens vendidos em um mercadinho. A aplicação foi desenvolvida utilizando TypeScript e funções genéricas para lidar com diferentes tipos de produtos.
+
+## :computer: Visualize este projeto:
+- Instale as dependências: `npm install`
+
+## :bulb: Habilidades:
+Foram criadas as funções no arquivo `src/functions.ts` e os types no diretório `/types`.
